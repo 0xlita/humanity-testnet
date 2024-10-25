@@ -88,3 +88,49 @@ Error executing transaction: execution reverted: "Rewards: no rewards available"
 At time 18:10:30 WIB 25-10-2024
 Error executing transaction: execution reverted: "Rewards: no rewards available" (action="estimateGas", data="0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001d526577617264733a206e6f207265776172647320617661696c61626c65000000", reason="Rewards: no rewards available", transaction={ "data": "0xb88a802f", "from": "0x8cCfcc34dCBf4896ec79837001488646045Ba3c7", "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, invocation=null, revert={ "args": [ "Rewards: no rewards available" ], "name": "Error", "signature": "Error(string)" }, code=CALL_EXCEPTION, version=6.13.4)
 
+At time 18:20:53 WIB 25-10-2024
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+Error processing transaction. Please try again later.
+
