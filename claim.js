@@ -35,20 +35,26 @@ async function doClaimDaily(privateKey) {
     return txResponse.hash;
 
   } catch (error) {
-    const errorMessage = `Error executing transaction: ${error.message}`;
-    console.log(errorMessage.red);
-    appendLog(errorMessage);
+    if (error.message.includes("Rewards: no rewards available")) {
+      const message = `Wallet Address ${wallet.address} has been claimed daily reward.`;
+      console.log(message.red);
+      appendLog(message);
+    } else {
+      const errorMessage = `Error executing transaction: ${error.message}`;
+      console.log(errorMessage.red);
+      appendLog(errorMessage);
+    }
   }
 }
 
 async function runClaim() {
   displayHeader();
   const timezone = moment().tz('Asia/Jakarta').format('HH:mm:ss [WIB] DD-MM-YYYY');
+  const timeExecute = `At time ${timezone}`;
+  console.log(timeExecute);
+  appendLog(timeExecute);
   for (const PRIVATE_KEY of PRIVATE_KEYS) {
     try {
-      const timeExecute = `At time ${timezone}`;
-      console.log(timeExecute);
-      appendLog(timeExecute);
       const receiptTx = await doClaimDaily(PRIVATE_KEY);
       if (receiptTx) {
         const successMessage = `Transaction Hash: ${explorer.tx(receiptTx)}`;
