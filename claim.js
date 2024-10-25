@@ -14,8 +14,8 @@ function appendLog(message) {
   fs.appendFileSync('log.txt', message + '\n');
 }
 async function doClaimDaily(privateKey) {
+  const wallet = new Wallet(privateKey, provider);
   try {
-    const wallet = new Wallet(privateKey, provider);
     const implementationContract = new Contract(
       IMPLEMENT_CA,
       ABI,
