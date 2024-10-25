@@ -29,7 +29,7 @@ async function doClaimDaily(privateKey) {
     };
     const txResponse = await wallet.sendTransaction(transaction);
     const receipt = await txResponse.wait(1);
-    const successMessage = `Transaction Confirmed for claim Daily Reward in block ${receipt.blockNumber}`;
+    const successMessage = `Transaction Confirmed for Wallet Address ${receipt.from}`;
     console.log(successMessage.blue);
     appendLog(successMessage);
     return txResponse.hash;
@@ -55,12 +55,10 @@ async function runClaim() {
         console.log(successMessage.cyan);
         appendLog(successMessage);
       }
-      console.log('');
     } catch (error) {
       const errorMessage = `Error processing transaction. Please try again later.`;
       console.log(errorMessage.red);
       appendLog(errorMessage);
-      console.log('');
     }
   }
   appendLog('');
