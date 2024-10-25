@@ -29,7 +29,7 @@ async function doClaimDaily(privateKey) {
     };
     const txResponse = await wallet.sendTransaction(transaction);
     const receipt = await txResponse.wait(1);
-    const successMessage = `Transaction Confirmed for Wallet Address ${receipt.from}`;
+    const successMessage = `Transaction Confirmed for Wallet Address ${wallet.address}`;
     console.log(successMessage.blue);
     appendLog(successMessage);
     return txResponse.hash;
