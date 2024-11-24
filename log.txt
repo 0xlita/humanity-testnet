@@ -2229,3 +2229,82 @@ Error executing transaction: could not coalesce error (error={ "code": -32000, "
 Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2f1242325aded846153f19f7a92f7991b8eff333b3e127b3556330ec1a00f188
 
+At time 09:27:49 WIB 24-11-2024
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 18, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xb7b3e367e418bb5421c103782d7df1e330e8afe34f6201c8fc0162c8eed99e8a" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7541113a922690914e0a2cbce3540cb3af7efd08002c0e225f2f24e08ba216ff
+Transaction Confirmed for Wallet Address 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x82ea06445346bcf942ae43db17f0b3b92ed2b4c21b712b4581e7d716a69a4e15
+Transaction Confirmed for Wallet Address 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf630b5ece6838d46c2c5161fa925039145e340bdc5020a5d76b00c93a162c456
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 131, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xac5e8e8fa463199a76599705896a587fbb0a32555181415c8527308acb514dd5" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4cbee4b91510dfbba955dc651f7cb90b2960c76a025d15ab54fa382876f61ab5
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 180, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x23d179a340810a8066c4d226d1cefd65d83bc52dc5ca9c7563bb7e0bd8ce8cba" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0xa46e0AB0310De849837840174a7452Bd159fe148
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xedde50df4e628c7d7964e8aec2e5ce12c16875205acc8b4604e5f127d1fa1f8b
+Transaction Confirmed for Wallet Address 0x109EcCbBc3E04727F74CCFF611152203277777eD
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf901bbf160123f1670faafa06ce14ef62ccd61975b2623976f19d8d14a5c3de6
+Transaction Confirmed for Wallet Address 0x85EC28203bc7e2178204536c79C4521a4c885231
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbc03eb733dd44998406550b060a2e0b6b2a248bbdd606a16c9e39e5806478a55
+Transaction Confirmed for Wallet Address 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe8134149f96823a563688dc8b7d8851d1d46970cc625fc9a0d52a863efea5ced
+Transaction Confirmed for Wallet Address 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x585f55450af76a42b17bcacc5be4f3a0ca4caf7f6c7be44521b65f6903155b0b
+Transaction Confirmed for Wallet Address 0xB40042665d9c17A380Fe58f568618787cA54E44b
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe9a3e8621bca4019b977b036b3f5fb90aed8a8cfe2b38e3861a0eefd9d57b0f5
+Transaction Confirmed for Wallet Address 0x9163158550158040655f0736cF5B5Fe208b114e0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x36dbbbd918dc2ecfb75fef2566913d29b209a85b72301bc180b6edd37db1f0d3
+Transaction Confirmed for Wallet Address 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x42a29e0185cd87886ca37ae9f6c94d6994b0ee6549ec4907a6ab6efd2444a6e8
+Transaction Confirmed for Wallet Address 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x6f966fd44a771384c702086efea5c985cd1568121e9fbc6fa1d8371ed4502c49
+Transaction Confirmed for Wallet Address 0x0f18140FC0E036698c127c20cDe7C05161EDedA0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x47b45571228b9865ac7b06e6929237b754dc0c05ebc1b7486aa9948c3b626d27
+Transaction Confirmed for Wallet Address 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3bc5e7d0cfc8c757d09199a9e10910d380647b539e75923c265a6f139471e502
+Transaction Confirmed for Wallet Address 0xF33263E24497De51995BB047aE1e999FC67319c0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9d2b4148559259e4db028b78389b43e4042d5d5d50464e7c01063f23b86f18a9
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 583, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x384586a74dfa4677ae3f422007993525db09add4a5389bb46a9cac348b1c3a8a" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x870e759de014f3ac6206bee1f720720286668c86240f7d28d71d841c8b3d959b
+Transaction Confirmed for Wallet Address 0x45bc34B164b41953b36DD7405B596ae80b6EaabC
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x98e3b2490f9ce6babe641ab7af010af2c3db95d0a726fed9dc54fddf126213a8
+Transaction Confirmed for Wallet Address 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x13b0ad5b37d17544b2bb5442a8044a9b66796abf4b8ce8557dc43a6920ddd770
+Transaction Confirmed for Wallet Address 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x22fcf5039187724a78d2beaa03c91b3756bc3e65121209df1c21ede53d289bcb
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 725, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xb1ee014b18b1b73afd299593e03af8742203eb3f477d99243df64f87fd56deae" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0x409148BD0709047c2c454d11B112cC70fe17E01E
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2fd6bfbad2cbec3ce4335f998fdb2c4c77b2d002940dea5558be557aff8b7415
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 776, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xb34eed13b99fb5145408f6e3fe29f53b9f843e3cc5e193d03cc592ec36c6e445" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2758d00e49e60e7e9ee3e26780643f74d7fae08a3a7b646ec24c23e5e8754e15
+Transaction Confirmed for Wallet Address 0x27e102D33145118394bA8BA0123fD169919B30Db
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd56566f8efc1b5139ed7b45193791af8f68f2c91c0ef4805cc087b3e7c620cb9
+Transaction Confirmed for Wallet Address 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x67959c20d1a683ec5a821737d6a103af78c84412f5d6c7c4c1ea796e2da71005
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 896, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x9675ff52456128366267ec89df7b29cf293a609b2f82e7e4274d2c746870a715" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcc3a93ee9b9138b4d2b0e0121bef8c2f55ed711977af280c2c36a02db55eacfe
+Transaction Confirmed for Wallet Address 0x203992ba44b220A2A579165a736C1a581CAA41D1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x73b15048bc1cbdac6c47c64940fe2bc0e4286aa54fd9232dc07bef617c03fd80
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 978, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xe2aaa9a882dd3c459c8f497923e98854572a554e4a5a69a4be389fb36410ace6" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x61777d9f7c9fa0cf47a1acb9d1b7ab0e8c11cca1ec3f448cc430903b69d887b3
+Transaction Confirmed for Wallet Address 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdb38936c9e95855f186ae909a0a9904b3cef58ab2e5d49738fbdadebf77ce013
+Transaction Confirmed for Wallet Address 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0e2a7a2a6cae1b161a1c99b3caca3fbfea965f4fbb3e0231f78888eda20ec473
+Transaction Confirmed for Wallet Address 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x31e230adc37f528ef8492c4609348ff615eae5fcc91490b0c1bb38546b94030d
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 1123, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x0414f89bbc78c4c9e38b65d49b706472bbd1290a5ec262269ab3696fbcdd3844" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 1141, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xd4be8602e5eb97043c77f69197889f6d826b9d40b4955bd47f7e1edc2bc10615" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 1159, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x47ac113470baa9aa91611475c3393e8dd5dc2e4cce9b0ab60af8b73112691798" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Transaction Confirmed for Wallet Address 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x28a8c8300d1e57cfb7fd250b14d4f674f92cea7cbd17650447983c1e291a044f
+Transaction Confirmed for Wallet Address 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8e730f3cba3347bbdd07f3d33e4c601d7ca08b9c18fc65b5a4657965dfb2a254
+Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x79942e0966a6de77903d1305809929a98a2f313e5aa3bb4de1bcf6e948016b02
+
