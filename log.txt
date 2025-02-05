@@ -8722,3 +8722,77 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5541323959bafd26e22
 Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x30e9235a016115f51bdb8acd0abd2cea01f4e61bfb8fb1644f61a7466205a7f6
 
+At time 09:13:51 WIB 05-02-2025
+Transaction Confirmed for Wallet Address 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf281f4656e51e19ff2180d5519e45bc7fce26d33ac81fb1a1c64e36a5fd96048
+Transaction Confirmed for Wallet Address 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfb01a4f68533ecb156987a2d450ffd6c1b75ade9f6969b4e9d5c23e5bbeea78e
+Transaction Confirmed for Wallet Address 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4f5aac638ca31acdb594af0fd733373fad82bcdb3f37f4569fe3169d19977e85
+Transaction Confirmed for Wallet Address 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3830b36d7342e03dcb73b38aca2bdaeab431a71a8b2a5f0afa6cdd18d60eab3e
+Transaction Confirmed for Wallet Address 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa0a16abb9f9d1a74f8b58dafaab76a518ee6ec149d2a94693d3a448b364f9ad1
+Transaction Confirmed for Wallet Address 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0ee3c904a69b40206a591c681f5842fd1058050c60c8a0be47e76a6c005f4eca
+Error executing transaction: transaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0x061408a3A8a11BFF9bE8aB02601ACdddd389E439", "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x53eef56eaa02a2437ac1d3369436c591cddb4123dc76ad6559b2561ebca4241f", "blockNumber": 4417273, "contractAddress": null, "cumulativeGasUsed": "49812086", "from": "0x061408a3A8a11BFF9bE8aB02601ACdddd389E439", "gasPrice": "0", "gasUsed": "208387", "hash": "0xdb955f2df52c104e931b82ff59d69f5166bd1f03550b2712947beaef2bb433fc", "index": 298, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, code=CALL_EXCEPTION, version=6.13.5)
+Transaction Confirmed for Wallet Address 0xa46e0AB0310De849837840174a7452Bd159fe148
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8f5251e2530c828dfbfd988a23e887292ec858654ca4c26c7363ee453d377f11
+Transaction Confirmed for Wallet Address 0x109EcCbBc3E04727F74CCFF611152203277777eD
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x45382115a33ad2c3c2589b1e229365eba0652f8678137654dcd846ad24eddecf
+Transaction Confirmed for Wallet Address 0x85EC28203bc7e2178204536c79C4521a4c885231
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb61427c26c6d22527670c555d1511887ccecaa6a22484d6109fea6207c1e6831
+Transaction Confirmed for Wallet Address 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd383aeb0e22dcf8ee3bb5b108452a34a1f62cf673863a1a54732b6716503c882
+Transaction Confirmed for Wallet Address 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5726f2b335779d54b11004ce5e16e908c29ff970c7ff30969936970e96ec28b2
+Transaction Confirmed for Wallet Address 0xB40042665d9c17A380Fe58f568618787cA54E44b
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x73672de796691cbf2d0728411d7f6f82d3f60693c7a9a5eeb2de125972b84dff
+Transaction Confirmed for Wallet Address 0x9163158550158040655f0736cF5B5Fe208b114e0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x700f99a17c0914a315e92774a0dc0e83960b1ee2219153699d695121e7e5fcaf
+Transaction Confirmed for Wallet Address 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa39b59203b881141c4bff5385851abd9a214e41b53ed8a143acd55dde51c60c0
+Transaction Confirmed for Wallet Address 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xaacbdbdb942acb03c88e566495561a911cb3155b8f3b8a41bcc93f995023ca79
+Transaction Confirmed for Wallet Address 0x0f18140FC0E036698c127c20cDe7C05161EDedA0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xae74b452d6b99e9e9a2771e2026bc84048e3f10b9abbb49eea1c2c72d4ea239c
+Transaction Confirmed for Wallet Address 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4f5d700f7a0704c0f583d0ee52e3bb280c65008b528717583631ab47ab8c2f44
+Transaction Confirmed for Wallet Address 0xF33263E24497De51995BB047aE1e999FC67319c0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf6864aecd4a81fa98efc1904d7738a3da35a091b22d114b7e30e6c42375c5149
+Transaction Confirmed for Wallet Address 0x59a64290685e90706389f8e22399dF11d4F23819
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4eccf7beb5ae1856980c82079dbe513222fcac5426c871d52b5eacfa5f99f0da
+Transaction Confirmed for Wallet Address 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2d2e43ad4ba1b2c87f3a95166c6c9f18ac3238d22216eb357ceafc2084b1aeac
+Transaction Confirmed for Wallet Address 0x45bc34B164b41953b36DD7405B596ae80b6EaabC
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe0f8ce8f5c4d4fd88c2505442905bf175a529a4ef4b8f0ca1133df430ace7161
+Transaction Confirmed for Wallet Address 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x468cd2a8c97d44f44a401a3799c3e129d39e9143678f5f2839250a67f6af132c
+Transaction Confirmed for Wallet Address 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc04851ae6ef57aa98adcf882e7ce6cf2347faa6c8d7dba120d2f6dc5e260c9be
+Transaction Confirmed for Wallet Address 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x575a91a27c69f21ea9e9f774f30afae92293eafa63fc90445cc3f4e5bcdd3bb9
+Transaction Confirmed for Wallet Address 0x409148BD0709047c2c454d11B112cC70fe17E01E
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xec46d8f4aab27c08df2acefc41f8da5d6a917786f8c07f1642f37d95d02bb8ec
+Transaction Confirmed for Wallet Address 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbda682dfce5230e5cf220e753154b84f8c6e823145fe786044f100d84123130b
+Transaction Confirmed for Wallet Address 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5191f36c17cb95a216dc12fa021c82f5d4dd2abdfb1dd7e3176211f66329daac
+Transaction Confirmed for Wallet Address 0x27e102D33145118394bA8BA0123fD169919B30Db
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x186ccdeb3e42da5a9a9b16c77b193389379b6d17cdbff2a66da0436caa8f6493
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 404 Not Found (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "404 page not found\n", "responseStatus": "404 Not Found" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.testnet.humanity.org", "responseBody": "Bad Gateway", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5145, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf86763808302f54f94a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30da03d3de5a5b8350ff2f2fc0d995bd6c9a4971bc5aabe5fe37d43f04fb2cad57dcf9f6d339ecedc423ab214d859b82d535bb76fc9ef890e7f4c35c28d1b8ca5b290" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5147, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xbd83c025b80970b95a1a02403cb826356c4fdec0", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5149, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x01f394e53d79d1c77cd104a0fb07da069ab2934c", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5151, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x51f528672a34c18442d42ad9073462c166d6f2bb", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5153, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x6065da7b6ea55140cffc3b4718303a4e41d53b82", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5155, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x6eb0a5b0d9ab3caa149b7871d8b37a17d75f7597", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp: lookup hp-testnet-sequencer-rpc.service.consul on 172.17.0.1:53: no such host" }, payload={ "id": 5157, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x8ccfcc34dcbf4896ec79837001488646045ba3c7", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+
