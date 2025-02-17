@@ -88,3 +88,91 @@ Transaction Confirmed for Wallet Address 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x22c400fbe93c7ce21b731beac1becad511cd358bd820ddac0d967f4be563654f
 Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 has been claimed daily reward.
 
+At time 09:18:09 WIB 17-02-2025
+Transaction Confirmed for Wallet Address 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x6b721f90817599f557868de13e3d8b5a2687145a8add00bff8c931ac09e6dcbb
+Transaction Confirmed for Wallet Address 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x744f914c420918059fe54dc1dc65f42f7b205d915e4e19a84874eac6e8c26a5a
+Transaction Confirmed for Wallet Address 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd46b6ba360158f515bd3f3a24bcc49f75cdae15e5eb7c3645c920b6fe6a6ca38
+Transaction Confirmed for Wallet Address 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x835657a1f63173437d43361508df109aa8f1235343182539c8928d33b1c8b833
+Transaction Confirmed for Wallet Address 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3a92b58164d0f61f4ef7747865d1f8f495600938a4e4aca5abc89ed81a352ea0
+Transaction Confirmed for Wallet Address 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8c8909054293127210ee4d7aa7ab4f29f500c4947585bd4bd46ea6de7f6c4ad1
+Transaction Confirmed for Wallet Address 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa7a65430b908ef3d4b8ee699ca393ca349e9e871e9882848a7f77c5af43ac53f
+Transaction Confirmed for Wallet Address 0xa46e0AB0310De849837840174a7452Bd159fe148
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x74301ff608a00cacf2a6f5571ed622b592b07bbe58c05aa625a67be190249a08
+Transaction Confirmed for Wallet Address 0x109EcCbBc3E04727F74CCFF611152203277777eD
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3450df271b86275b75d9d4c04eeffd0e6feabf954c60b5658dc171cde2fbf234
+Transaction Confirmed for Wallet Address 0x85EC28203bc7e2178204536c79C4521a4c885231
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc739b6a10437f0a1d827959d3f5deeaa69ec073fd6a5deec0fc7f3b8af39aba5
+Transaction Confirmed for Wallet Address 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x059f4d84ed92d1bf3f48ce1c9de44f6bd4d45237f8706bf5738e8b9be0a85059
+Transaction Confirmed for Wallet Address 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdd23691f1f1bc55cd02ce4c7750d4b1d3e692095330da711a8cbcdcf918f5e14
+Transaction Confirmed for Wallet Address 0xB40042665d9c17A380Fe58f568618787cA54E44b
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xeff1809ce862f2115b57cdd2687b343e4128bbd84fb95fa442ffa0200b97fd12
+Transaction Confirmed for Wallet Address 0x9163158550158040655f0736cF5B5Fe208b114e0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xba555a546e8cf9f385323d867ec37233257708f969f1e036c3414b1cffcb1fd0
+Transaction Confirmed for Wallet Address 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb4da88ae12abf13bf9ee618cfdd9108ad9d9a937644458e582fb03f08f47d0d6
+Transaction Confirmed for Wallet Address 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x80fddc9275c6135a35e3e91b4d63fb1f46c7429f4d3384fab1636f5dee9612dc
+Error executing transaction: transaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0x0f18140FC0E036698c127c20cDe7C05161EDedA0", "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x28a91d61cbbc267119061f0133a1fdd44ef4dff91e6179edd6819706a4af57c6", "blockNumber": 4563601, "contractAddress": null, "cumulativeGasUsed": "80638276", "from": "0x0f18140FC0E036698c127c20cDe7C05161EDedA0", "gasPrice": "0", "gasUsed": "193467", "hash": "0xefa3ab99c47ebbe6617fbc8057c62ec1a7b8c9e9bcfbba0bf666bc55988fe2cd", "index": 512, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, code=CALL_EXCEPTION, version=6.13.5)
+Error executing transaction: transaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0xA4C94713F8B4D91ff76aEb625281F844bd5F758D", "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x385e2cebd89b58d880247c9185cb2aa3fbd361a221bb68cd516d70ec81b436d0", "blockNumber": 4563605, "contractAddress": null, "cumulativeGasUsed": "26000475", "from": "0xA4C94713F8B4D91ff76aEb625281F844bd5F758D", "gasPrice": "0", "gasUsed": "209129", "hash": "0x6b38dd16fd3797df514a8df5df57fdc5e07aac58278678c38124a457343bcd98", "index": 140, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0xa18f6FCB2Fd4884436d10610E69DB7BFa1bFe8C7" }, code=CALL_EXCEPTION, version=6.13.5)
+Transaction Confirmed for Wallet Address 0xF33263E24497De51995BB047aE1e999FC67319c0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa82a12006ab4ce67a3d7307a8aa4fd33c3782aa13326f8db1d4dff4adb9994ed
+Transaction Confirmed for Wallet Address 0x59a64290685e90706389f8e22399dF11d4F23819
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xcba758ae849e39e63e60b769b44f8fe8456403b2b7dd02e112df9254248485b9
+Transaction Confirmed for Wallet Address 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x06411e561f2499ec5347c7c97f93c37c70a465590f1795f96944faa203445738
+Transaction Confirmed for Wallet Address 0x45bc34B164b41953b36DD7405B596ae80b6EaabC
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc83ae2566f4f5703fe4ac99a4278dae82aa0b8fb37661ba8e2069426f4eed220
+Transaction Confirmed for Wallet Address 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd2970bd0e4a9fd774eb0dc59e8590dc787cf919b75e864ee759207939a7a58a6
+Transaction Confirmed for Wallet Address 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x902367161c0a8c2ecf68881416b6969af3c15f5178ddc6917d57714c69e4a103
+Transaction Confirmed for Wallet Address 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc9271bbcda3431fc5a073588a0de8263b65e0fae9580e0ec9fe313d409e45bd6
+Transaction Confirmed for Wallet Address 0x409148BD0709047c2c454d11B112cC70fe17E01E
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7a556053b8b42cd2399288fd6d2d671a6b47cd115a13f659679c972feded5a57
+Transaction Confirmed for Wallet Address 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfe36617acbd2111328824c4a96808ec16e16afb62ca8c9c5f10923143f494002
+Transaction Confirmed for Wallet Address 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc5675b37e17588b4130169defac37b4702975987e7351662f028a55669e89840
+Transaction Confirmed for Wallet Address 0x27e102D33145118394bA8BA0123fD169919B30Db
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd9dfdc8966c12f4eda13ca368f5de0271111f763842c44e164c7b77ca40880ef
+Transaction Confirmed for Wallet Address 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb926d359b1a855fb3239c4802255736c722cdd70a4b75f56a39e41763505f2b0
+Transaction Confirmed for Wallet Address 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc6138ab28706c67162c0dcce2267779d4243efdbdee3cb7047863f4af155b11c
+Transaction Confirmed for Wallet Address 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x672c7f31193168653136d69362a8ba88c35dac66f6b4f0489c371e7b8d23b5d0
+Transaction Confirmed for Wallet Address 0x203992ba44b220A2A579165a736C1a581CAA41D1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0b2249165e39aaed9f6828219f888fc0c35c311e5710b108315bba285a68a530
+Transaction Confirmed for Wallet Address 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x55fb2b38e226b3907a6e6993c400beaaabcf05b03ee8e13f319109005fcd5b47
+Transaction Confirmed for Wallet Address 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4bd10e900fee1a1b1135070da9d0f6084002b34309fac1ce5079b7d72a730b07
+Transaction Confirmed for Wallet Address 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfc7df8a07ca00d416ca1b53eb0d3213d4f99524e6326b3c21d07a2fa7300509d
+Transaction Confirmed for Wallet Address 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0f484f5dd4c9fc7651364d5f3fd548d0c7398098e2386d94cdffc3ddd82ec750
+Transaction Confirmed for Wallet Address 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x515fc2df1f9e676ed12950b06095b16d72d50d2cd7e1e68cd2ca5d5c7b167b24
+Transaction Confirmed for Wallet Address 0xBD83c025B80970b95a1A02403cB826356C4fDeC0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x67dc756c6555f7763e6e65760a5a6b7dacea1a37bf008540189cf3befa7951a6
+Transaction Confirmed for Wallet Address 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x895a3218c3cd09828524be39b53214674c8eb997d766ba486590b782cbb90b1b
+Transaction Confirmed for Wallet Address 0x51f528672a34c18442d42ad9073462C166D6f2bb
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3c91bdbfd0f4d8cad1d80103e6fb322873377c0090d5d4419b411f0706d6a6ec
+Transaction Confirmed for Wallet Address 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8e619beaeb36b98579f35e3eb1e874c91621cccaa5cd22dfbf63f894c7573b45
+Transaction Confirmed for Wallet Address 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4b353bb98d31922bac497a6f65377bb1dd8156ea32d84a7dceefd8967a08b90e
+Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1ffd3b19894b30e4c53b87b179a06287358b489452db05696573c70eae7c1e01
+
