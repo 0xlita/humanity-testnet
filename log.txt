@@ -2899,3 +2899,80 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0x981bdfafef94a9bfe84
 Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x997f844466784fb2308d6cbfb391c3d4aecd9435756a8528d3b82b35718651f2
 
+At time 09:21:51 WIB 29-03-2025
+Transaction Confirmed for Wallet Address 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x97bb56790f72c0c3c060d6474a46a2234e89f467f57a3d15b3b239c565677127
+Transaction Confirmed for Wallet Address 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x193f0ef79b51fde2c5c3892e95c91a548f4563e1d91a603ebb0a91f3bc69d493
+Transaction Confirmed for Wallet Address 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc4b5ec70cbb8b40d8d1ae1062162d20311773f1d118fc24b63c8deac16727c3d
+Transaction Confirmed for Wallet Address 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x674cbe9f9a56793c3426dade7a0e9e0ef2a04cec9db8c2e908c08daac326150c
+Transaction Confirmed for Wallet Address 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe9361e94d040093eea75bea30bd916fcb6402a7416fac8907bbadb22fc683e4f
+Transaction Confirmed for Wallet Address 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x47121fbff86fa36f900b7ee608251b5b9c89b6a859b623f2874d5013c3520277
+Transaction Confirmed for Wallet Address 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x97384235a7206e58162f333361cfd812c10858a22520ca7476ad77afa5ac32e7
+Transaction Confirmed for Wallet Address 0xa46e0AB0310De849837840174a7452Bd159fe148
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x12cb7f25326efeacf493ea6d6b64c5a4d0ce008821f3b86fda91e3079a8790ac
+Transaction Confirmed for Wallet Address 0x109EcCbBc3E04727F74CCFF611152203277777eD
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xbaa44e5786c87a515808b873ffc88c67158be1ea418f16639b0a1c87ed51187e
+Transaction Confirmed for Wallet Address 0x85EC28203bc7e2178204536c79C4521a4c885231
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3ff59e6c9df2303f4180bb1974457db42499bbb4099214b5db845178bbe2451c
+Transaction Confirmed for Wallet Address 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x15118f7046f6b7423f048f81b40ee22f66a1cdee957f3c28b41ca02e14a9aa8b
+Transaction Confirmed for Wallet Address 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x0eb7bfcb913532d9313354ff746f6b54b1d7f469ad2252bf79525cc9e6ea9977
+Transaction Confirmed for Wallet Address 0xB40042665d9c17A380Fe58f568618787cA54E44b
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb13f766d6c37e5a07f8c0080bbc9334377116a3158eb684ba86dbab5f2c5b01b
+Transaction Confirmed for Wallet Address 0x9163158550158040655f0736cF5B5Fe208b114e0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xad7e55e250cd25bdfecd62456131be6e256192a4869d1f9536b35a454809cd0a
+Transaction Confirmed for Wallet Address 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x60e7c7ea0dcae267f8fd27f256a18dc8fcada7616dd19212303ed668993cd418
+Transaction Confirmed for Wallet Address 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x250c9fd36091ffa167ed2aacf161ac6cb187da0fcac7e77f3b2a17c5634266e3
+Transaction Confirmed for Wallet Address 0x0f18140FC0E036698c127c20cDe7C05161EDedA0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdceae185097bf8abef3b1fc482ea30b5eaa4ee3f8d44a29e3283e16cca6a8932
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1252, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xa4c94713f8b4d91ff76aeb625281f844bd5f758d", "latest" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1254, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xf33263e24497de51995bb047ae1e999fc67319c0", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Transaction Confirmed for Wallet Address 0x59a64290685e90706389f8e22399dF11d4F23819
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x56e1b73f5c31af0ac6d5fdaa29c1078cab38ca9e167d52e4f915439b77fd66c5
+Transaction Confirmed for Wallet Address 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xdda94dc8b0de8ff43a1c55d7464777ff6c95517f2e59d6fd298b7857f458857e
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1425, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x45bc34b164b41953b36dd7405b596ae80b6eaabc", "latest" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1436, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf869818e808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30ea0652dad54b25893b878e6f0d7ba84324d71a24be5646cdd14514ae7dc0972f8cea0544bf87e43958a29af2d4731cf251d0e10d201f04a2257ec3c02d8fa7d816a60" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Transaction Confirmed for Wallet Address 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x342d2aaa89a517661ebbf785860fdd3e8a4faf145b733d7e867a039b5c6bad56
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1503, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf869818d808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30da03ffb10123a80916b10868ee9084fe47b8c0ad4ad8dbee32e3ece2ae65c03172fa0324aa23084aff94067b73b4b9390b118e765fd4a263f8901e7cdfbd72e97e23c" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1505, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x409148bd0709047c2c454d11b112cc70fe17e01e", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 1507, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x9265ec11a255338ebde7416303328b1ac3d08d55", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Transaction Confirmed for Wallet Address 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x44341c524539e4055fc73a9a34e17bb4d6bb0f0414b5b2bb66e17f2b66409ebf
+Transaction Confirmed for Wallet Address 0x27e102D33145118394bA8BA0123fD169919B30Db
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3c8e76cdc60fffc9ce97cd2e0b7dd641f55277b18b41a6b2fe32af34218eee0d
+Transaction Confirmed for Wallet Address 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3f92890052b116215f8f81c42c7d73947c495529fcff3264f2d838eaa14cb182
+Transaction Confirmed for Wallet Address 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4d43a1019ed340b7f3cf65bed6c732f897bf9e1e963fa167acb98c14472e6c75
+Transaction Confirmed for Wallet Address 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x82ebf054eb36ac7b857093c6a07b3df31a8e5265837addef562f48e64fec3165
+Transaction Confirmed for Wallet Address 0x203992ba44b220A2A579165a736C1a581CAA41D1
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd5e74c330b7e37404f1f3a3e67bbbd375fabcbdf99d6fd0f9c75af7907f70581
+Transaction Confirmed for Wallet Address 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xffaddc35cd8ebf06d3f810b3f1848d0c63c676cefb0543e9578ed93425907caa
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2006, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf8698188808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30da0463d81d61b1e08493c2f3431d376a6064b4d7a5350e36a06dbbfdc2385474832a03d010e96148aca3c8ca79b6249a7187a976db931d26691e70472750f03f59a61" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2017, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf8698188808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30ea03b7a24003287d3c772015b2fcd77643b5fe8098667a3704a668cbec323650ea1a06f403009badb79b5ae35a47653160ca32a76e7dff42b210e9172bb75a1f3a270" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2019, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x80a8eadd4a465f7f2942222376bb95514ba55ac2", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Transaction Confirmed for Wallet Address 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe9e1e7491b6e492eab8a0d1dbc228ca87b925048202d4ac55eae14e4a50e3527
+Transaction Confirmed for Wallet Address 0xBD83c025B80970b95a1A02403cB826356C4fDeC0
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa33e501e83d53325207dadab4ee669b3a13c5e63356114c9544c67c11852614b
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2177, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x4dbdbadac9b22074346b5305bdbe69c8f420c966029a7df77117a9680ce58c89" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2178, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x51f528672a34c18442d42ad9073462c166d6f2bb", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 2194, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x6065da7b6ea55140cffc3b4718303a4e41d53b82", "latest" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Transaction Confirmed for Wallet Address 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x40e8d264f941b8c37ade88ad9ccf3188aef1d02d4dc90ca8b754585c4567b6e6
+Transaction Confirmed for Wallet Address 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x261da50a28efd6ca3b8c3997151aee7fca1cd12a8823e73f492214d3fe868bf1
+
